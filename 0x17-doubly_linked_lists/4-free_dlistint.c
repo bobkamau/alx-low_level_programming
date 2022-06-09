@@ -14,3 +14,4 @@ tmp = head->next;
 free(head);
 head = tmp;
 }
+}
